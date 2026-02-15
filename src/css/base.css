@@ -1,0 +1,17 @@
+body {
+  /* display: flex;
+  flex-direction: column;
+  min-width: 100vw;
+  min-height: 100vh;
+  margin: 0; */
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #0b0803;
+  background-color: #e0cbb4;
+}
+
